@@ -3,4 +3,12 @@ Version=1.0
 [Project1]
 ProjectPath=ZigBug.PrjPcb
 [Project2]
-ProjectPath=PCB_Project1.PrjPCB
+ProjectPath=..\..\..\..\BaiduYunDownload\Adafruit-VL6180X-ToF-Distance-Sensor-PCB-master\Imported Adafruit VL6180X.PrjPcb\Adafruit VL6180X.PrjPcb
+[Project3]
+ProjectPath=..\..\..\..\BaiduYunDownload\Adafruit-VL53L0X-ToF-Distance-Sensor-PCB-master\Imported Adafruit VL53L0X.PrjPcb\Adafruit VL53L0X.PrjPcb
+[Project4]
+ProjectPath=Range_LED.PrjPCB
+[Project5]
+ProjectPath=Range_Front.PrjPcb
+[Project6]
+ProjectPath=Range_RearSide.PrjPcb

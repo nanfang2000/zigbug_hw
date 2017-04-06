@@ -6,3 +6,11 @@
 HW/ZigBug/__Previews/
 
 HW/ZigBug/History/
+
+*.Zip
+
+*.LOG
+
+*.PcbDocPreview
+
+*.SchDocPreview
