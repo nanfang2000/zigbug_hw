@@ -72,7 +72,7 @@ GenerateClassCluster=0
 DocumentUniqueId=JQCNEFED
 
 [Document3]
-DocumentPath=..\ZigBug\Library\AltiumDesigner_PcbLibrary-2.6\PCB_ActiveDIO.PcbLib
+DocumentPath=Library\AltiumDesigner_PcbLibrary-2.6\PCB_ActiveDIO.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -89,7 +89,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document4]
-DocumentPath=..\ZigBug\Library\AltiumDesigner_PcbLibrary-2.6\PCB_ActiveLED.PcbLib
+DocumentPath=Library\AltiumDesigner_PcbLibrary-2.6\PCB_ActiveLED.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -106,7 +106,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document5]
-DocumentPath=..\ZigBug\Library\AltiumDesigner_PcbLibrary-2.6\PCB_Antenna.PcbLib
+DocumentPath=Library\AltiumDesigner_PcbLibrary-2.6\PCB_Antenna.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -123,7 +123,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document6]
-DocumentPath=..\ZigBug\Library\AltiumDesigner_PcbLibrary-2.6\PCB_Battery.PcbLib
+DocumentPath=Library\AltiumDesigner_PcbLibrary-2.6\PCB_Battery.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140,7 +140,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7]
-DocumentPath=..\ZigBug\Library\AltiumDesigner_PcbLibrary-2.6\PCB_ConnectorCable.PcbLib
+DocumentPath=Library\AltiumDesigner_PcbLibrary-2.6\PCB_ConnectorCable.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -157,7 +157,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8]
-DocumentPath=..\ZigBug\Library\AltiumDesigner_PcbLibrary-2.6\PCB_ConnectorFFC.PcbLib
+DocumentPath=Library\AltiumDesigner_PcbLibrary-2.6\PCB_ConnectorFFC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -174,7 +174,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document9]
-DocumentPath=..\ZigBug\Library\AltiumDesigner_PcbLibrary-2.6\PCB_IntegratedCircuit.PcbLib
+DocumentPath=Library\AltiumDesigner_PcbLibrary-2.6\PCB_IntegratedCircuit.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -191,7 +191,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document10]
-DocumentPath=..\ZigBug\Library\AltiumDesigner_PcbLibrary-2.6\PCB_Mechanical.PcbLib
+DocumentPath=Library\AltiumDesigner_PcbLibrary-2.6\PCB_Mechanical.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -208,7 +208,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document11]
-DocumentPath=..\ZigBug\Library\AltiumDesigner_PcbLibrary-2.6\PCB_Module.PcbLib
+DocumentPath=Library\AltiumDesigner_PcbLibrary-2.6\PCB_Module.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -225,7 +225,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document12]
-DocumentPath=..\ZigBug\Library\AltiumDesigner_PcbLibrary-2.6\PCB_Oscillator.PcbLib
+DocumentPath=Library\AltiumDesigner_PcbLibrary-2.6\PCB_Oscillator.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -242,7 +242,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document13]
-DocumentPath=..\ZigBug\Library\AltiumDesigner_PcbLibrary-2.6\PCB_PassiveCap.PcbLib
+DocumentPath=Library\AltiumDesigner_PcbLibrary-2.6\PCB_PassiveCap.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -259,7 +259,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document14]
-DocumentPath=..\ZigBug\Library\AltiumDesigner_PcbLibrary-2.6\PCB_PassiveInd.PcbLib
+DocumentPath=Library\AltiumDesigner_PcbLibrary-2.6\PCB_PassiveInd.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -276,7 +276,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document15]
-DocumentPath=..\ZigBug\Library\AltiumDesigner_PcbLibrary-2.6\PCB_PassiveRes.PcbLib
+DocumentPath=Library\AltiumDesigner_PcbLibrary-2.6\PCB_PassiveRes.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -293,7 +293,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document16]
-DocumentPath=..\ZigBug\Library\AltiumDesigner_PcbLibrary-2.6\PCB_SDCard.PcbLib
+DocumentPath=Library\AltiumDesigner_PcbLibrary-2.6\PCB_SDCard.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -310,7 +310,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document17]
-DocumentPath=..\ZigBug\Library\AltiumDesigner_PcbLibrary-2.6\PCB_Switch.PcbLib
+DocumentPath=Library\AltiumDesigner_PcbLibrary-2.6\PCB_Switch.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -327,7 +327,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document18]
-DocumentPath=..\ZigBug\Library\AltiumDesigner_PcbLibrary-2.6\PCB_USB.PcbLib
+DocumentPath=Library\AltiumDesigner_PcbLibrary-2.6\PCB_USB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -344,7 +344,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document19]
-DocumentPath=..\ZigBug\Library\AltiumDesigner_PcbLibrary-2.6\SCH_Active.SchLib
+DocumentPath=Library\AltiumDesigner_PcbLibrary-2.6\SCH_Active.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -361,7 +361,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document20]
-DocumentPath=..\ZigBug\Library\AltiumDesigner_PcbLibrary-2.6\SCH_Antenna.SchLib
+DocumentPath=Library\AltiumDesigner_PcbLibrary-2.6\SCH_Antenna.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -378,7 +378,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document21]
-DocumentPath=..\ZigBug\Library\AltiumDesigner_PcbLibrary-2.6\SCH_Battery.SchLib
+DocumentPath=Library\AltiumDesigner_PcbLibrary-2.6\SCH_Battery.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -395,7 +395,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document22]
-DocumentPath=..\ZigBug\Library\AltiumDesigner_PcbLibrary-2.6\SCH_Connector.SchLib
+DocumentPath=Library\AltiumDesigner_PcbLibrary-2.6\SCH_Connector.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -412,7 +412,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document23]
-DocumentPath=..\ZigBug\Library\AltiumDesigner_PcbLibrary-2.6\SCH_ConnectorHDR.SchLib
+DocumentPath=Library\AltiumDesigner_PcbLibrary-2.6\SCH_ConnectorHDR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -429,7 +429,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document24]
-DocumentPath=..\ZigBug\Library\AltiumDesigner_PcbLibrary-2.6\SCH_IntegratedCircuit.SchLib
+DocumentPath=Library\AltiumDesigner_PcbLibrary-2.6\SCH_IntegratedCircuit.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -446,7 +446,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document25]
-DocumentPath=..\ZigBug\Library\AltiumDesigner_PcbLibrary-2.6\SCH_Mechanical.SchLib
+DocumentPath=Library\AltiumDesigner_PcbLibrary-2.6\SCH_Mechanical.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -463,7 +463,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document26]
-DocumentPath=..\ZigBug\Library\AltiumDesigner_PcbLibrary-2.6\SCH_Module.SchLib
+DocumentPath=Library\AltiumDesigner_PcbLibrary-2.6\SCH_Module.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -480,7 +480,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document27]
-DocumentPath=..\ZigBug\Library\AltiumDesigner_PcbLibrary-2.6\SCH_Oscillator.SchLib
+DocumentPath=Library\AltiumDesigner_PcbLibrary-2.6\SCH_Oscillator.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -497,7 +497,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document28]
-DocumentPath=..\ZigBug\Library\AltiumDesigner_PcbLibrary-2.6\SCH_Passive.SchLib
+DocumentPath=Library\AltiumDesigner_PcbLibrary-2.6\SCH_Passive.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -514,7 +514,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document29]
-DocumentPath=..\ZigBug\Library\AltiumDesigner_PcbLibrary-2.6\SCH_SDCard.SchLib
+DocumentPath=Library\AltiumDesigner_PcbLibrary-2.6\SCH_SDCard.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -531,7 +531,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document30]
-DocumentPath=..\ZigBug\Library\AltiumDesigner_PcbLibrary-2.6\SCH_Switch.SchLib
+DocumentPath=Library\AltiumDesigner_PcbLibrary-2.6\SCH_Switch.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -548,7 +548,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document31]
-DocumentPath=..\ZigBug\Library\AltiumDesigner_PcbLibrary-2.6\SCH_USB.SchLib
+DocumentPath=Library\AltiumDesigner_PcbLibrary-2.6\SCH_USB.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -565,24 +565,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document32]
-DocumentPath=..\ZigBug\Library\AltiumDesigner_PcbLibrary-2.6\PCB_ConnectorHDR1.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=MDJAQCES
-
-[Document33]
-DocumentPath=..\ZigBug\Library\AltiumDesigner_PcbLibrary-2.6\PCB_ConnectorHDR.PcbLib
+DocumentPath=Library\AltiumDesigner_PcbLibrary-2.6\PCB_ConnectorHDR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
