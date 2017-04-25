@@ -14,3 +14,7 @@ HW/ZigBug/History/
 *.PcbDocPreview
 
 *.SchDocPreview
+
+*.CMP
+
+*.CMPPreview
