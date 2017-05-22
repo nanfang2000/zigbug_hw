@@ -1,9 +1,0 @@
-Output: Bill of Materials
-Type  : BOM
-From  : Variant [[No Variations]] of Project [ZigBug.PrjPcb]
-
-
-Files Generated   : 0
-Documents Printed : 0
-
-Finished Output Generation At 1:28:49 AM On 4/26/2017
