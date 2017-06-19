@@ -1,0 +1,6 @@
+Comment,Description,Designator,Footprint,LibRef,Quantity,Value
+
+"Cap_0805","Capacitor","C1","CAP_0805","Cap_0805","1","10uF"
+"Cap_0603","Capacitor","C2","CAP_0603","Cap_0603","1","0.1uF"
+"HDR1x6_1.27","Header","P1","HDR1X6_1.27_180H_SMD","HDR1x6_1.27","1",""
+"VL53L0X","VL53L0X - Laser Time of Flight Sensor (2M range)","U1","LGA12_ST_4.4X2.4X1MM","VL53L0X","1",""
