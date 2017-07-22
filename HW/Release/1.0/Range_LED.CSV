@@ -1,8 +1,11 @@
 Comment,Description,Designator,Footprint,Quantity,Value
-
-"Cap_0805","Capacitor","C1","CAP_0805","1","10uF"
-"Cap_0603","Capacitor","C2","CAP_0603","1","0.1uF"
-"HDR1x8_1.27","Header","P1","HDR1X8_1.27_180","1",""
-"Res_0603","Resistor","R1, R2","RES_0603","2","1K"
-"LED_3535_SK6812","LED","SK1","LED_3535_4P","1",""
-"VL6180X","VL6180x Proximity and Light Sensor with Gesture Recognition    Supply Level: 2.8V (3.0V Max!)  Range: 0-10cm  Light Sensor: 0..100K Lux (16-bit output)  IR emitter: 850 nm  I2C Address: 0x29 (7-bit)","U1","LGA12_ST_4.8X2.8X1MM","1",""
+,,,,,
+Cap_0805,Capacitor,C1,CAP_0805,1,10uF
+Cap_0603,Capacitor,C2,CAP_0603,1,0.1uF
+HDR1x8_1.27,Header,P1,HDR1X8_1.27_180,1,
+Res_0603,Resistor,"R1, R2",RES_0603,2,1K
+LED_3535_SK6812,LED,SK1,LED_3535_4P,1,
+VL6180X,VL6180x Proximity and Light Sensor with Gesture Recognition    Supply Level: 2.8V (3.0V Max!)  Range: 0-10cm  Light Sensor: 0..100K Lux (16-bit output)  IR emitter: 850 nm  I2C Address: 0x29 (7-bit),U1,LGA12_ST_4.8X2.8X1MM,1,
+,,,,,
+,,,,,
+Range_Led,,×ö5Ì×,,,
