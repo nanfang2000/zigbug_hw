@@ -12,3 +12,5 @@ ProjectPath=Range_LED.PrjPCB
 ProjectPath=Range_Front.PrjPcb
 [Project6]
 ProjectPath=Range_RearSide.PrjPcb
+[Project7]
+ProjectPath=..\..\..\Hardware\IMUCubeCTRL.PrjPCB
